@@ -1,0 +1,97 @@
+
+#MainTitle {
+    font-family: 'Verdana', sans-serif;
+    background-color: rgb(231, 72, 160);
+    width: auto;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+  }
+body {  margin: auto;
+    width: 60%;
+    border: 3px solid #ad2173;
+    padding: 10px;border: #ceeaf7;
+  }
+#pictureMe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+div {
+    font-family: 'Verdana', sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    border: 10px solid rgb(231, 72, 160);
+    padding: 50px;
+    margin: 20px;
+  }
+#quote {
+    font-style: italic;
+    font-family: 'Lucida console', sans-serif;
+  }
+#lorem { 
+    padding-top: 10px;
+    padding-bottom:10px;
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;}
+#favorite {
+    width: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    height: auto;
+  }
+#favorite td, #favorite th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+#favorite tr:nth-child(even){background-color: #f2f2f2;
+  }
+#favorite tr:hover {background-color: #ddd;
+  }
+#favorite th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+table, th, td {
+  border:1px solid black;
+  }
+#h3 {font-family: Arial, Helvetica, sans-serif;
+}
+#footer {
+    font-family: 'Verdana', sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    border: 8px solid rgb(228, 160, 13);
+    padding: 25px;
+    margin: 10px;
+}
+#FunnyStoryTitle {
+    font-family: 'Verdana', sans-serif;
+    background-color: rgb(245, 237, 127);
+}
+#FunnyStorySmallerTitle {
+    font-family: 'Verdana', sans-serif;
+    font-size: small;
+    background-color: rgb(228, 170, 10);
+}
+#linkToYUteamColegas {
+    border: black;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    color: green;
+}
+  #linkToYUteamColegas { 
+    color: rgb(118, 10, 139);
+}
+  #linkToYUteamColegas:hover {
+    background-color: #5f04aa;
+    color: rgb(209, 27, 27);
+}
